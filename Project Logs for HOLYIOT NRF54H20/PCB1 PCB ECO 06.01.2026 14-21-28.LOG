@@ -1,0 +1,46 @@
+Added Component: Designator=C?(Murata GRM2165C1H101J)
+Added Component: Designator=PINS(PLS-4 (DS-1021-1x4))
+Added Component: Designator=R?(Yageo RC0805JR-0710KL)
+Added Component: Designator=U?(AMS 1117 - 3.3)
+Added Component: Designator=U?(HOLYIOT NRF54H20)
+Added Component: Designator=USB-C(RUICHI USB3.1 TYPE-C 02PF-023)
+Added Component: Designator=Ñ?(Murata GRM21BR60J106K)
+Added Component: Designator=Ñ?(Murata GRM21BR60J106K)
+Added Component: Designator=Ñ?(Murata GRM21BR60J106K)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=PINS-5
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-28
+Added Pin To Net: NetName=GND Pin=U?-29
+Added Pin To Net: NetName=GND Pin=U?-58
+Added Pin To Net: NetName=GND Pin=USB-C-2
+Added Pin To Net: NetName=GND Pin=Ñ?-1
+Added Pin To Net: NetName=GND Pin=Ñ?-1
+Added Pin To Net: NetName=GND Pin=Ñ?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=PINS-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-2
+Added Pin To Net: NetName=NetC?_2 Pin=Ñ?-2
+Added Pin To Net: NetName=NetC?_2 Pin=Ñ?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetPINS_2 Pin=PINS-2
+Added Pin To Net: NetName=NetPINS_2 Pin=U?-74
+Added Net: Name=NetPINS_2
+Added Pin To Net: NetName=NetPINS_3 Pin=PINS-3
+Added Pin To Net: NetName=NetPINS_3 Pin=U?-73
+Added Net: Name=NetPINS_3
+Added Pin To Net: NetName=NetPINS_4 Pin=PINS-4
+Added Pin To Net: NetName=NetPINS_4 Pin=R?-1
+Added Pin To Net: NetName=NetPINS_4 Pin=U?-72
+Added Net: Name=NetPINS_4
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Pin To Net: NetName=NetU?_3 Pin=USB-C-1
+Added Pin To Net: NetName=NetU?_3 Pin=Ñ?-2
+Added Net: Name=NetU?_3
+Added Class: Name=Ý3
+Added Rule: Name=Schematic Supply Nets
