@@ -1342,8 +1342,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Schlib1.SchLib
-ComponentDesignItemID0=Button
-ComponentSymbolReference0=Button
+ComponentDesignItemID0=APS1604M
+ComponentSymbolReference0=APS1604M
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1370,7 +1370,7 @@ ParameterUpdate3=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=Button
+ModelName0=APS1604M (SOP-8)
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
