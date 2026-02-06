@@ -1,0 +1,20 @@
+Change Pin Designator/Name:  Old Designator=U1-26 Old Name=P2.11 New Designator =P2.10 New Name=27
+Change Pin Designator/Name:  Old Designator=U1-27 Old Name=P2.10 New Designator =P2.11 New Name=26
+Change Pin Designator/Name:  Old Designator=U1-31 Old Name=P2.08 New Designator =P2.05 New Name=34
+Change Pin Designator/Name:  Old Designator=U1-32 Old Name=P2.07 New Designator =P7.07 New Name=35
+Change Pin Designator/Name:  Old Designator=U1-33 Old Name=P2.06 New Designator = P0.00 New Name=50
+Change Pin Designator/Name:  Old Designator=U1-34 Old Name=P2.05 New Designator =P7.06 New Name=36
+Change Pin Designator/Name:  Old Designator=U1-35 Old Name=P7.07 New Designator =P2.06 New Name=33
+Change Pin Designator/Name:  Old Designator=U1-36 Old Name=P7.06 New Designator =P1.00 New Name=57
+Change Pin Designator/Name:  Old Designator=U1-45 Old Name=P0.05 New Designator =P0.07 New Name=47
+Change Pin Designator/Name:  Old Designator=U1-47 Old Name=P0.07 New Designator =P0.05 New Name=45
+Change Pin Designator/Name:  Old Designator=U1-50 Old Name= P0.00 New Designator =P2.07 New Name=32
+Change Pin Designator/Name:  Old Designator=U1-51 Old Name=P0.04 New Designator =VDDL New Name=55
+Change Pin Designator/Name:  Old Designator=U1-52 Old Name=P1.04 New Designator =P2.08 New Name=31
+Change Pin Designator/Name:  Old Designator=U1-53 Old Name=P1.03 New Designator =P1.04 New Name=52
+Change Pin Designator/Name:  Old Designator=U1-54 Old Name=P1.02 New Designator =P1.01 New Name=56
+Change Pin Designator/Name:  Old Designator=U1-55 Old Name=VDDL New Designator =P0.04 New Name=51
+Change Pin Designator/Name:  Old Designator=U1-56 Old Name=P1.01 New Designator =P1.02 New Name=54
+Change Pin Designator/Name:  Old Designator=U1-57 Old Name=P1.00 New Designator =P1.03 New Name=53
+Change Pin Designator/Name:  Old Designator=U1-59 Old Name=P1.06 New Designator =P1.07 New Name=60
+Change Pin Designator/Name:  Old Designator=U1-60 Old Name=P1.07 New Designator =P1.06 New Name=59
