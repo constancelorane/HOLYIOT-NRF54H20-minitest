@@ -1,0 +1,12 @@
+Change Component Description : Designator=VR1 Old Description=Pwr Sply Func,Voltage Regulator,LDO,SOT-23,PD 369.6mW,VO 3.3V,Regline +/-0.75%/V New Description=Pwr Sply Func,Voltage Regulator,LDO,SOT-23,PD 369.6mW,VO 3.3V,Regline +/-0.75%/V | Microchip Technology Inc. MCP1700T-3302E/TT
+Added Component: Designator=R?(Yageo RC0805JR-0710KL)
+Added Pin To Net: NetName=P2.10 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Change Net Name : Old Net Name=NetU1_55 New Net Name=NetU1_51
+Add Class: Class already exists: U?
+Add Class: Class already exists: U?
+Add Class: Class already exists: U?
+Add Class: Class already exists: U?
+Add Class: Class already exists: U?
+Added Member To Class: ClassName=U? Member=Component R? 10 êÎì
+Added Member To Class: ClassName=U? Member=Component U2 HOLYIOT NRF54L15
