@@ -1,8 +1,0 @@
-Change Component Description : Designator=VR1 Old Description=Pwr Sply Func,Voltage Regulator,LDO,SOT-23,PD 369.6mW,VO 3.3V,Regline +/-0.75%/V New Description=Pwr Sply Func,Voltage Regulator,LDO,SOT-23,PD 369.6mW,VO 3.3V,Regline +/-0.75%/V | Microchip Technology Inc. MCP1700T-3302E/TT
-Added Pin To Net: NetName=GND Pin=+3.3V-1
-Added Pin To Net: NetName=GND Pin=Charge-3
-Add Class: Class already exists: U?
-Add Class: Class already exists: U?
-Add Class: Class already exists: U?
-Add Class: Class already exists: U?
-Add Class: Class already exists: U?
