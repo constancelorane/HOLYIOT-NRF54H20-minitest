@@ -1,9 +1,9 @@
 /*
 /*/
-!altium\
-!doc-src\
-!ref\
-!struct\
+!altium/
+!doc-src/
+!ref/
+!struct/
 !README.txt
 !.gitignore
 
