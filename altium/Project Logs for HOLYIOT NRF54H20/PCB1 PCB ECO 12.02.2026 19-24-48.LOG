@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=P2.10 Pin=R?-1
+Removed Pin From Net: NetName=GND Pin=R?-2
+Removed Member From Class: ClassName=U? Member=R?
+Add Class: Class already exists: U?
+Add Class: Class already exists: U?
+Add Class: Class already exists: U?
+Add Class: Class already exists: U?
+Add Class: Class already exists: U?

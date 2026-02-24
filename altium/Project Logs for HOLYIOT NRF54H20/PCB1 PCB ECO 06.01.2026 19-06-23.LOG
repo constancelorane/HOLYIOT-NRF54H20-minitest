@@ -1,0 +1,31 @@
+Added Component: Designator=+3.3V(Battery connect)
+Added Component: Designator=Charge(TP4056)
+Added Component: Designator=VR?(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCP1700T-3302E/TT/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP1700T-3302E/TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP1700T-3302E/TT/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Ñ?(Murata GRM21BR60J106K)
+Added Component: Designator=Ñ?(Murata GRM21BR60J106K)
+Added Pin To Net: NetName=GND Pin=Charge-4
+Added Pin To Net: NetName=GND Pin=VR?-1
+Added Pin To Net: NetName=GND Pin=Ñ?-1
+Added Pin To Net: NetName=GND Pin=Ñ?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net+3.3V_1 Pin=+3.3V-1
+Added Pin To Net: NetName=Net+3.3V_1 Pin=Charge-3
+Added Net: Name=Net+3.3V_1
+Added Pin To Net: NetName=Net+3.3V_2 Pin=+3.3V-2
+Added Pin To Net: NetName=Net+3.3V_2 Pin=Charge-2
+Added Net: Name=Net+3.3V_2
+Added Pin To Net: NetName=NetCharge_1 Pin=Charge-1
+Added Pin To Net: NetName=NetCharge_1 Pin=VR?-3
+Added Pin To Net: NetName=NetCharge_1 Pin=Ñ?-2
+Added Net: Name=NetCharge_1
+Added Pin To Net: NetName=NetVR?_2 Pin=VR?-2
+Added Pin To Net: NetName=NetVR?_2 Pin=Ñ?-2
+Added Net: Name=NetVR?_2
+Added Class: Name=POWER_IN
+Added Rule: Name=Schematic Supply Nets

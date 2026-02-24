@@ -1,0 +1,13 @@
+Added Component: Designator=U?(HOLYIOT NRF54H20)
+Added Component: Designator=USB-A(USBA-1J (DS1095 B-R))
+Added Component: Designator=Ñ?(Murata GRM21BR60J106K)
+Added Pin To Net: NetName=GND Pin=USB-A-2
+Added Pin To Net: NetName=GND Pin=USB-A-3
+Added Pin To Net: NetName=GND Pin=USB-A-4
+Added Pin To Net: NetName=GND Pin=Ñ?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetUSB-A_1 Pin=USB-A-1
+Added Pin To Net: NetName=NetUSB-A_1 Pin=Ñ?-2
+Added Net: Name=NetUSB-A_1
+Added Class: Name=Ý3
+Added Rule: Name=Schematic Supply Nets

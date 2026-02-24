@@ -1,0 +1,10 @@
+Change Component Description : Designator=VR? Old Description=Pwr Sply Func,Voltage Regulator,LDO,SOT-23,PD 369.6mW,VO 3.3V,Regline +/-0.75%/V New Description=Pwr Sply Func,Voltage Regulator,LDO,SOT-23,PD 369.6mW,VO 3.3V,Regline +/-0.75%/V | Microchip Technology Inc. MCP1700T-3302E/TT
+Added Component: Designator=PINS(PLS-4 (DS-1021-1x4))
+Added Pin To Net: NetName=NetCharge_1 Pin=PINS-1
+Added Pin To Net: NetName=GND Pin=PINS-5
+Added Pin To Net: NetName=NetPINS_2 Pin=PINS-2
+Added Pin To Net: NetName=NetPINS_2 Pin=PINS-3
+Added Pin To Net: NetName=NetPINS_2 Pin=PINS-4
+Added Net: Name=NetPINS_2
+Added Member To Class: ClassName=POWER_IN Member=Component PINS PLS-4
+Added Member To Class: ClassName=POWER_IN Member=Component ׁ? 10 לךװ
