@@ -1,0 +1,204 @@
+Removed Pin From Net: NetName=NetC16_1 Pin=C17-1
+Removed Pin From Net: NetName=NetC16_1 Pin=C20-1
+Removed Pin From Net: NetName=NetC16_1 Pin=C23-1
+Change Component Footprint: Designator=C4 Old Footprint=C_1206_Manual_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C5 Old Footprint=C_1206_Manual_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C18 Old Footprint=C_1206_Manual_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C19 Old Footprint=C_1206_Manual_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C20 Old Footprint=C_1206_Manual_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C1 Old Footprint=C_1210_Manual_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C2 Old Footprint=C_1210_Manual_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C16 Old Footprint=C_1210_Manual_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C17 Old Footprint=C_1210_Manual_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C21 Old Footprint=C_1210_Manual_mount New Footprint=C_0603_Manual_mount
+Change Component Comment : Designator=C4 Old Comment=GRM31MR71H105KA88 New Comment=GRM188R71E105MA12
+Change Component Comment : Designator=C5 Old Comment=GRM31MR71H105KA88 New Comment=GRM188R71E105MA12
+Change Component Comment : Designator=C18 Old Comment=GRM31MR71H105KA88 New Comment=GRM188R71E105MA12
+Change Component Comment : Designator=C19 Old Comment=GRM31MR71H105KA88 New Comment=GRM188R71E105MA12
+Change Component Comment : Designator=C20 Old Comment=GRM31MR71H105KA88 New Comment=GRM188R71E105MA12
+Change Component Comment : Designator=C21 Old Comment=GRM32ER61H106MA12 New Comment=GRM188R61E104KA01
+Change Component Comment : Designator=C1 Old Comment=GRM32ER61H106MA12 New Comment=GRM188R61E106MA73
+Change Component Comment : Designator=C2 Old Comment=GRM32ER61H106MA12 New Comment=GRM188R61E106MA73
+Change Component Comment : Designator=C16 Old Comment=GRM32ER61H106MA12 New Comment=GRM188R61E106MA73
+Change Component Comment : Designator=C17 Old Comment=GRM32ER61H106MA12 New Comment=GRM188R61E106MA73
+Change Component Comment : Designator=C9 Old Comment=GRM188R71H104KA93 New Comment=GRM188R61E104KA01
+Change Component Comment : Designator=C10 Old Comment=GRM188R71H104KA93 New Comment=GRM188R61E104KA01
+Change Component Comment : Designator=C22 Old Comment=GRM188R71H104KA93 New Comment=GRM188R61E104KA01
+Change Component Comment : Designator=C23 Old Comment=GRM188R71H104KA93 New Comment=GRM188R61E104KA01
+Change Component Comment : Designator=C15 Old Comment=GRM188R71H104KA93 New Comment=GRM188R61E106MA73
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C_1210_Manual_mount"; UniqueID = "\RBUAWMWY\ANWACRMK" ("\RBUAWMWY\ANWACRMK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R61E106MA73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C_1210_Manual_mount"; UniqueID = "\RBUAWMWY\KEXWWVLL" ("\RBUAWMWY\KEXWWVLL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R61E106MA73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C_1206_Manual_mount"; UniqueID = "\RBUAWMWY\PGHPVXMG" ("\RBUAWMWY\PGHPVXMG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71E105MA12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C_1206_Manual_mount"; UniqueID = "\RBUAWMWY\DQVVXFMI" ("\RBUAWMWY\DQVVXFMI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71E105MA12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "C_0603_Manual_mount"; UniqueID = "\RBUAWMWY\NDWHGWSD" ("\RBUAWMWY\NDWHGWSD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R61E104KA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "C_0603_Manual_mount"; UniqueID = "\RBUAWMWY\ROYLGJOZ" ("\RBUAWMWY\ROYLGJOZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R61E104KA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "C_0603_Manual_mount"; UniqueID = "\SBNFXIKM" ("\SBNFXIKM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R61E106MA73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "C_1210_Manual_mount"; UniqueID = "\YNGGUQGB" ("\YNGGUQGB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R61E106MA73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "C_1210_Manual_mount"; UniqueID = "\KYNIXNNA" ("\KYNIXNNA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R61E106MA73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "C_1206_Manual_mount"; UniqueID = "\WCNKMSAL" ("\WCNKMSAL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71E105MA12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "C_1206_Manual_mount"; UniqueID = "\LUIHLZEB" ("\LUIHLZEB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71E105MA12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "C_1206_Manual_mount"; UniqueID = "\OLPBRALZ" ("\OLPBRALZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71E105MA12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "C_1210_Manual_mount"; UniqueID = "\AEUGQVIL" ("\AEUGQVIL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R61E104KA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "C_0603_Manual_mount"; UniqueID = "\RSUMJDGH" ("\RSUMJDGH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R61E104KA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "C_0603_Manual_mount"; UniqueID = "\LOJQMPWM" ("\LOJQMPWM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R61E104KA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC16_1 Pin=C15-1
+Added Pin To Net: NetName=NetC16_1 Pin=C18-1
+Added Pin To Net: NetName=NetC16_1 Pin=C21-1
+Added Pin To Net: NetName=P9.03 Pin=U1-64
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC15_1
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=C20-1
+Added Pin To Net: NetName=NetC17_1 Pin=C23-1
+Added Pin To Net: NetName=NetC17_1 Pin=S3-2
+Added Pin To Net: NetName=NetC17_1 Pin=U1-77
+Added Net: Name=NetC17_1

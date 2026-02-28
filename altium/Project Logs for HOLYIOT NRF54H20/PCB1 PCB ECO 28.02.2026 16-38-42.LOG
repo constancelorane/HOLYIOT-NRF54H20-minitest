@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=S1 Old Footprint=Wedge Jumper 0603 New Footprint=Wedge Jumper 1206
+Change Component Footprint: Designator=S2 Old Footprint=Wedge Jumper 0603 New Footprint=Wedge Jumper 1206
+Change Component Footprint: Designator=S3 Old Footprint=Wedge Jumper 0603 New Footprint=Wedge Jumper 1206
+Change Component Designator: OldDesignator=NFC_ANT NewDesignator=XP1
