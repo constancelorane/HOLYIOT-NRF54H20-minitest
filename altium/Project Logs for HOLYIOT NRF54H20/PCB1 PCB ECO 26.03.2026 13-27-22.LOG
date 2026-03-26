@@ -1,0 +1,193 @@
+Removed Pin From Net: NetName=IO1_SPI Pin=DS1-2
+Removed Pin From Net: NetName=IO2_SPI Pin=DS1-3
+Removed Pin From Net: NetName=IO0_SPI Pin=DS1-5
+Removed Pin From Net: NetName=IO3_SPI Pin=DS1-7
+Removed Pin From Net: NetName=IO1_SPI Pin=DS2-2
+Removed Pin From Net: NetName=IO2_SPI Pin=DS2-3
+Removed Pin From Net: NetName=IO0_SPI Pin=DS2-5
+Removed Pin From Net: NetName=IO3_SPI Pin=DS2-7
+Added Component: Designator=C15(C_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R61E106MA73"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R61E106MA73"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Added Component: Designator=DA2(TO-252)
+Add component (AddParameter): Name = "Input voltage"; Value = "Vout...20 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. output current"; Value = "800 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output voltage"; Value = "1,8 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-40 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Линейный регулятор напряжения с низким падением"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum current"; Value = "2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Перемычка контактная SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum current"; Value = "2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Перемычка контактная SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum current"; Value = "2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Перемычка контактная SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R25(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum current"; Value = "2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Перемычка контактная SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R26(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum current"; Value = "2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Перемычка контактная SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R27(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum current"; Value = "2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Перемычка контактная SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R28(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum current"; Value = "2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Перемычка контактная SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R29(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum current"; Value = "2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Перемычка контактная SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=XP8(PLS-2)
+Add component (AddParameter): Name = "Connector type"; Value = "Вилка на плату"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Разъем штыревой"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC5V0 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=DA2-1
+Added Pin To Net: NetName=VCC5V0 Pin=DA2-3
+Added Pin To Net: NetName=IO0_SPI Pin=R22-1
+Added Pin To Net: NetName=IO1_SPI Pin=R23-1
+Added Pin To Net: NetName=IO0_SPI Pin=R24-1
+Added Pin To Net: NetName=IO1_SPI Pin=R25-1
+Added Pin To Net: NetName=IO2_SPI Pin=R26-2
+Added Pin To Net: NetName=IO3_SPI Pin=R27-2
+Added Pin To Net: NetName=IO2_SPI Pin=R28-2
+Added Pin To Net: NetName=IO3_SPI Pin=R29-2
+Added Pin To Net: NetName=NetDS1_2 Pin=DS1-2
+Added Pin To Net: NetName=NetDS1_2 Pin=R23-2
+Added Net: Name=NetDS1_2
+Added Pin To Net: NetName=NetDS1_3 Pin=DS1-3
+Added Pin To Net: NetName=NetDS1_3 Pin=R26-1
+Added Net: Name=NetDS1_3
+Added Pin To Net: NetName=NetDS1_5 Pin=DS1-5
+Added Pin To Net: NetName=NetDS1_5 Pin=R22-2
+Added Net: Name=NetDS1_5
+Added Pin To Net: NetName=NetDS1_7 Pin=DS1-7
+Added Pin To Net: NetName=NetDS1_7 Pin=R27-1
+Added Net: Name=NetDS1_7
+Added Pin To Net: NetName=NetDS2_2 Pin=DS2-2
+Added Pin To Net: NetName=NetDS2_2 Pin=R25-2
+Added Net: Name=NetDS2_2
+Added Pin To Net: NetName=NetDS2_3 Pin=DS2-3
+Added Pin To Net: NetName=NetDS2_3 Pin=R28-1
+Added Net: Name=NetDS2_3
+Added Pin To Net: NetName=NetDS2_5 Pin=DS2-5
+Added Pin To Net: NetName=NetDS2_5 Pin=R24-2
+Added Net: Name=NetDS2_5
+Added Pin To Net: NetName=NetDS2_7 Pin=DS2-7
+Added Pin To Net: NetName=NetDS2_7 Pin=R29-1
+Added Net: Name=NetDS2_7
+Added Pin To Net: NetName=VCC1V8 Pin=C18-1
+Added Pin To Net: NetName=VCC1V8 Pin=DA2-2
+Added Pin To Net: NetName=VCC1V8 Pin=XP8-1
+Added Pin To Net: NetName=VCC1V8 Pin=XP8-2
+Added Net: Name=VCC1V8
+Added Member To Class: ClassName=OTHER COMPONENTS Member=Component C15 GRM188R61E106MA73
+Added Member To Class: ClassName=OTHER COMPONENTS Member=Component C18 GRM188R61E106MA73
+Added Member To Class: ClassName=OTHER COMPONENTS Member=Component DA2 LM1117IDTX-1.8
+Added Member To Class: ClassName=OTHER COMPONENTS Member=Component R22 RC0603JR-070RL
+Added Member To Class: ClassName=OTHER COMPONENTS Member=Component R23 RC0603JR-070RL
+Added Member To Class: ClassName=OTHER COMPONENTS Member=Component R24 RC0603JR-070RL
+Added Member To Class: ClassName=OTHER COMPONENTS Member=Component R25 RC0603JR-070RL
+Added Member To Class: ClassName=OTHER COMPONENTS Member=Component R26 RC0603JR-070RL
+Added Member To Class: ClassName=OTHER COMPONENTS Member=Component R27 RC0603JR-070RL
+Added Member To Class: ClassName=OTHER COMPONENTS Member=Component R28 RC0603JR-070RL
+Added Member To Class: ClassName=OTHER COMPONENTS Member=Component R29 RC0603JR-070RL
+Added Member To Class: ClassName=MCU+GPIO Member=Component XP8 PLS-2
+Added Rule: Name=Schematic Supply Nets_3
