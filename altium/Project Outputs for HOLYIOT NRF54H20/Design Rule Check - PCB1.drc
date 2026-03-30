@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\HOLYIOT NRF54H20\altium\PCB1.PcbDoc
 Date     : 30.03.2026
-Time     : 16:01:03
+Time     : 16:27:46
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -10,19 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Via (87mm,82mm) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (87mm,83.25mm) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (87mm,85.25mm) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (87mm,86.25mm) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (87mm,87.25mm) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (87mm,88.25mm) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (88mm,82mm) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (88mm,83.25mm) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (88mm,85.25mm) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (88mm,86.25mm) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (88mm,87.25mm) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (88mm,88.25mm) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.
-Rule Violations :12
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: Yes), (Allow shelved: No)
 Rule Violations :0
@@ -67,6 +55,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 15
+Violations Detected : 3
 Waived Violations : 0
 Time Elapsed        : 00:00:01
