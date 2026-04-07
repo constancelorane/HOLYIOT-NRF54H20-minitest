@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=5V0_VBUS NewDesignator=S3
+Change Component Designator: OldDesignator=NFC_ANT NewDesignator=XP1
+Change Component Designator: OldDesignator=P1.00 NewDesignator=SB2
+Change Component Designator: OldDesignator=P9.00 NewDesignator=VT1
+Change Component Designator: OldDesignator=P9.01 NewDesignator=VT2
+Change Component Designator: OldDesignator=P9.02 NewDesignator=VT3
+Change Component Designator: OldDesignator=P9.03 NewDesignator=VT4
+Change Component Designator: OldDesignator=POWER NewDesignator=HL3
+Change Component Designator: OldDesignator=RESET NewDesignator=SB1
